@@ -51,13 +51,13 @@ Smart Education
 
 ->they could do challenges with
 
-    *Planting trees
+  *Planting trees
     
-    *Reducing plastic usage
+  *Reducing plastic usage
     
-    *Saving electricity and water
+  *Saving electricity and water
     
-    *Cleaning their school or neighborhood
+  *Cleaning their school or neighborhood
     
 ->Students can share their activities, earn eco points, and see their progress on leaderboards. This creates a community where students motivate each other to take care of the environment. By combining education, gamification, and social interaction, this platform makes environmental learning more exciting and meaningful.
 
