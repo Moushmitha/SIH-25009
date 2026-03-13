@@ -65,19 +65,8 @@ Smart Education
 HTML, CSS, JAVA SCRIPT can be used as technical approach
 
 Methodology and Implementation
-*Students create an account on the platform using their school details.
+![sih-flowchart](https://github.com/user-attachments/assets/f1cbd446-f6a5-4bfb-b346-665414964822)
 
-*They can explore trending environmental challenges and learning modules.
-
-*Students choose a challenge and complete the activity in real life.
-
-*They upload proof such as a photo or short description.
-
-*The system verifies the activity and awards eco points and badges.
-
-*Points are added to the student and school leaderboard.
-
-*Teachers can monitor participation through a dashboard.
 
 ## Feasibility and Viability
 ->This idea is feasible because it uses commonly available technologies such as web development frameworks, mobile apps, and cloud storage.Most students today already have access to smartphones and the internet, which makes it easier to implement such a platform in schools and colleges.The platform can first be introduced in a few schools as a pilot project and later expanded to more institutions.
@@ -106,4 +95,6 @@ Solutions
 *Promoting community participation in environmental activities
 
 ## Research and References
+National Geographic Environmental Education
+https://education.nationalgeographic.org
 
